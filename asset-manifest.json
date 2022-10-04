@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gomoku_refactoring/static/css/main.897ccc4c.css",
+    "main.js": "/gomoku_refactoring/static/js/main.75737e6b.js",
+    "index.html": "/gomoku_refactoring/index.html",
+    "main.897ccc4c.css.map": "/gomoku_refactoring/static/css/main.897ccc4c.css.map",
+    "main.75737e6b.js.map": "/gomoku_refactoring/static/js/main.75737e6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.897ccc4c.css",
+    "static/js/main.75737e6b.js"
+  ]
+}
